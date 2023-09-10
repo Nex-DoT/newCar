@@ -14,6 +14,9 @@ module.exports = {
       },
       colors:{
         "zero": '#ffffff00'
+      },
+      height:{
+        "82": "22rem"
       }
     },
   },
