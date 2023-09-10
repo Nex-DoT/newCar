@@ -4,8 +4,8 @@ const Layout = ({children}) => {
     return (
         <div>
             <header >
-                <div className=" w-full h-40 mb-3 bg-gradient-to-t from-black to-black z-10 border-b-4 border-opacity-100">
-                     <Image src={banner} className="w-full h-40 object-cover opacity-60 -z-10" alt="png"/>
+                <div className=" w-full h-40 mb-3 bg-gradient-to-t from-black to-black z-10 border-b-4">
+                     <Image src={banner} className="w-full h-40 object-cover border-b-4" alt="png"/>
                 </div>
             </header>
             <div>

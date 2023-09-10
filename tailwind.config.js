@@ -16,7 +16,8 @@ module.exports = {
         "zero": '#ffffff00'
       },
       height:{
-        "82": "22rem"
+        "82": "22rem",
+        '100':"30rem"
       }
     },
   },
